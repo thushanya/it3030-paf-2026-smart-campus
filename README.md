@@ -1,7 +1,7 @@
-📱 Group Project – Event / Resource Management System
+ Group Project – Event / Resource Management System
 📌 Overview
 
-A collaborative Android application designed to manage and organize campus facilities and resources efficiently. The system allows users to browse, search, and manage available resources such as lecture halls, laboratories, meeting rooms, and equipment.
+A collaborative application designed to manage and organize campus facilities and resources efficiently. The system allows users to browse, search, and manage available resources such as lecture halls, laboratories, meeting rooms, and equipment.
 
 🧑‍💻 My Contribution – Resource Management Module
 🏢 Facilities & Assets Catalogue
