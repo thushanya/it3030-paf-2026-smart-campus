@@ -1,4 +1,5 @@
  Group Project – Event / Resource Management System
+ 
 📌 Overview
 
 A collaborative application designed to manage and organize campus facilities and resources efficiently. The system allows users to browse, search, and manage available resources such as lecture halls, laboratories, meeting rooms, and equipment.
